@@ -7,7 +7,6 @@ To design a website to perform mathematical calculations in server side.
 
 ### Step 1:
 
-asdjsjsjbc
 ### Step 2:
 
 
