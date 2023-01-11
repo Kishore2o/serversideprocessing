@@ -119,10 +119,12 @@ body {
 ```
 
 ## OUTPUT:
-[!OUTPUT](./images/PERIMETER.png)
+![PERIMETER](https://user-images.githubusercontent.com/118679883/211867996-bf691b0c-c8b4-4201-809f-bb6a9fdadcdf.png)
+
 
 ### Home Page:
-[!OUTPUT](./images/homw page.png)
+
+![Homw page](https://user-images.githubusercontent.com/118679883/211868281-5b8a4395-f5a9-444b-8bd3-1b222b522b9f.png)
 
 ## Result:
 
