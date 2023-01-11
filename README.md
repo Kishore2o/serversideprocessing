@@ -127,5 +127,5 @@ body {
 ![Homw page](https://user-images.githubusercontent.com/118679883/211868281-5b8a4395-f5a9-444b-8bd3-1b222b522b9f.png)
 
 ## Result:
-Output executed successfully
+Program executed successfully
 
