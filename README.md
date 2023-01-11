@@ -119,12 +119,14 @@ body {
 ```
 
 ## OUTPUT:
-![PERIMETER](https://user-images.githubusercontent.com/118679883/211867996-bf691b0c-c8b4-4201-809f-bb6a9fdadcdf.png)
+![output ](https://user-images.githubusercontent.com/118679883/211870589-667c64fe-8a4b-4006-8447-51166f685184.png)
+
 
 
 ### Home Page:
 
-![Homw page](https://user-images.githubusercontent.com/118679883/211868281-5b8a4395-f5a9-444b-8bd3-1b222b522b9f.png)
+![PERIMETER](https://user-images.githubusercontent.com/118679883/211870703-a51ac404-6f11-4c30-8f39-7496bda6884e.png)
+
 
 ## Result:
 Program executed successfully
